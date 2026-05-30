@@ -88,14 +88,5 @@
         "diem_hoa": 5.5,
         "diem_tb": 5.67,
         "xep_loai": "Trung Bình"
-    },
-    {
-        "id": "SV111",
-        "ten": "Auraman",
-        "diem_toan": 10.0,
-        "diem_ly": 10.0,
-        "diem_hoa": 10.0,
-        "diem_tb": 10.0,
-        "xep_loai": "Giỏi"
     }
 ]
